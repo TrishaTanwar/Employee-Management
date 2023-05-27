@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac985b66-3172-4807-b111-9de005be690d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Pvp5dfKa6IGAoEUTYkgvRFdEuy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/punee/IdeaProjects/employees",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "582ca3f7cbaf4edcc1b445f8ea90b503",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.trisha.employees" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.trisha.employees" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeRepositoryTest">
+    <configuration name="EmployeeRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trisha.employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trisha.employees" />
+      <option name="MAIN_CLASS_NAME" value="com.trisha.employees.EmployeeRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRepositoryTest.addEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trisha.employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trisha.employees" />
+      <option name="MAIN_CLASS_NAME" value="com.trisha.employees.EmployeeRepositoryTest" />
+      <option name="METHOD_NAME" value="addEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRepositoryTest.getEmployee_byId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trisha.employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trisha.employees" />
+      <option name="MAIN_CLASS_NAME" value="com.trisha.employees.EmployeeRepositoryTest" />
+      <option name="METHOD_NAME" value="getEmployee_byId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRepositoryTest.updateCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trisha.employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trisha.employees" />
+      <option name="MAIN_CLASS_NAME" value="com.trisha.employees.EmployeeRepositoryTest" />
+      <option name="METHOD_NAME" value="updateCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trisha.employees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trisha.employees" />
+      <option name="MAIN_CLASS_NAME" value="com.trisha.employees.EmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employees" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trisha.employees.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeRepositoryTest" />
+        <item itemvalue="JUnit.EmployeeRepositoryTest.getEmployee_byId" />
+        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="JUnit.EmployeeRepositoryTest.updateCustomer" />
+        <item itemvalue="JUnit.EmployeeRepositoryTest.addEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac985b66-3172-4807-b111-9de005be690d" name="Changes" comment="" />
+      <created>1684347229681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684347229681</updated>
+      <workItem from="1684347230810" duration="2426000" />
+      <workItem from="1684648155997" duration="4639000" />
+      <workItem from="1684676598774" duration="2877000" />
+      <workItem from="1684920053437" duration="6712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
